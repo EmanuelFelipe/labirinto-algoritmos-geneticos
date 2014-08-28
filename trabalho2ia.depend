@@ -1,0 +1,319 @@
+# depslib dependency file v1.0
+1319580074 source:/home/wakim/Desktop/trabalho2ia/main.cpp
+	<iostream>
+	<queue>
+	"include/GeneticAlgorithm.h"
+	"include/Maze.h"
+	"include/FileHandler.h"
+	"include/Search.h"
+	"include/DataNode.h"
+
+1319750056 ataNode.h"
+
+1319332950 /home/wakim/Desktop/trabalho2ia/include/GeneticAlgorithm.h
+	"Population.h"
+
+1319332950 n.h"
+
+1319296916 /home/wakim/Desktop/trabalho2ia/include/Population.h
+
+1319398810 /home/wakim/Desktop/trabalho2ia/include/Maze.h
+	<ostream>
+	"MazeCell.h"
+	"Population.h"
+	"Enviroment.h"
+	"DataNode.h"
+
+1319729832 h"
+
+1319458518 /home/wakim/Desktop/trabalho2ia/include/MazeCell.h
+	<ostream>
+
+1319750296 
+
+1319407040 /home/wakim/Desktop/trabalho2ia/include/Enviroment.h
+	"DataNode.h"
+
+1319579963 /home/wakim/Desktop/trabalho2ia/include/DataNode.h
+	<iostream>
+	<ostream>
+
+1319328206 /home/wakim/Desktop/trabalho2ia/include/FileHandler.h
+	<fstream>
+	"Maze.h"
+
+1319578594 /home/wakim/Desktop/trabalho2ia/include/Search.h
+	<vector>
+	<queue>
+	<stack>
+	<iostream>
+	"Enviroment.h"
+	"DataNode.h"
+
+1319578373 source:/home/wakim/Desktop/trabalho2ia/src/DataNode.cpp
+	"../include/DataNode.h"
+
+1319748812 e/DataNode.h"
+
+1319385812 source:/home/wakim/Desktop/trabalho2ia/src/FileHandler.cpp
+	"../include/FileHandler.h"
+
+1319385812 e/FileHandler.h"
+
+1319468640 source:/home/wakim/Desktop/trabalho2ia/src/GeneticAlgorithm.cpp
+	"../include/GeneticAlgorithm.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<climits>
+
+1319407350 source:/home/wakim/Desktop/trabalho2ia/src/Maze.cpp
+	"../include/Maze.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1319458508 source:/home/wakim/Desktop/trabalho2ia/src/MazeCell.cpp
+	"../include/MazeCell.h"
+
+1319458508 e/MazeCell.h"
+
+1319241640 source:/home/wakim/Desktop/trabalho2ia/src/Population.cpp
+	"../include/Population.h"
+
+1319241640 e/Population.h"
+
+1319580340 source:/home/wakim/Desktop/trabalho2ia/src/Search.cpp
+	"../include/Search.h"
+	<iostream>
+	<cassert>
+
+1319730596 source:/media/PENDRIVE/trabalho2ia/main.cpp
+	<iostream>
+	<queue>
+	"include/GeneticAlgorithm.h"
+	"include/Maze.h"
+	"include/FileHandler.h"
+	"include/Search.h"
+	"include/DataNode.h"
+
+1319332950 /media/PENDRIVE/trabalho2ia/include/GeneticAlgorithm.h
+	"Population.h"
+
+1319296916 /media/PENDRIVE/trabalho2ia/include/Population.h
+
+1319398810 /media/PENDRIVE/trabalho2ia/include/Maze.h
+	<ostream>
+	"MazeCell.h"
+	"Population.h"
+	"Enviroment.h"
+	"DataNode.h"
+
+1319458518 /media/PENDRIVE/trabalho2ia/include/MazeCell.h
+	<ostream>
+
+1319407040 /media/PENDRIVE/trabalho2ia/include/Enviroment.h
+	"DataNode.h"
+
+1319731848 /media/PENDRIVE/trabalho2ia/include/DataNode.h
+	<iostream>
+	<ostream>
+
+1319328206 /media/PENDRIVE/trabalho2ia/include/FileHandler.h
+	<fstream>
+	"Maze.h"
+
+1319729833 /media/PENDRIVE/trabalho2ia/include/Search.h
+	<vector>
+	<queue>
+	<stack>
+	<iostream>
+	"Enviroment.h"
+	"DataNode.h"
+
+1319731030 source:/media/PENDRIVE/trabalho2ia/src/DataNode.cpp
+	"../include/DataNode.h"
+
+1319385812 source:/media/PENDRIVE/trabalho2ia/src/FileHandler.cpp
+	"../include/FileHandler.h"
+
+1319468640 source:/media/PENDRIVE/trabalho2ia/src/GeneticAlgorithm.cpp
+	"../include/GeneticAlgorithm.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<climits>
+
+1319730101 source:/media/PENDRIVE/trabalho2ia/src/Maze.cpp
+	"../include/Maze.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1319458508 source:/media/PENDRIVE/trabalho2ia/src/MazeCell.cpp
+	"../include/MazeCell.h"
+
+1319241640 source:/media/PENDRIVE/trabalho2ia/src/Population.cpp
+	"../include/Population.h"
+
+1319731622 source:/media/PENDRIVE/trabalho2ia/src/Search.cpp
+	"../include/Search.h"
+	<iostream>
+	<cassert>
+
+1319385812 source:u:\trabalho2ia\src\filehandler.cpp
+	"../include/FileHandler.h"
+
+1319328206 u:\trabalho2ia\include\filehandler.h
+	<fstream>
+	"Maze.h"
+
+1319749904 u:\trabalho2ia\include\maze.h
+	<ostream>
+	"MazeCell.h"
+	"Population.h"
+	"Enviroment.h"
+	"DataNode.h"
+
+1319458518 u:\trabalho2ia\include\mazecell.h
+	<ostream>
+
+1319296916 u:\trabalho2ia\include\population.h
+
+1319407040 u:\trabalho2ia\include\enviroment.h
+	"DataNode.h"
+
+1319748422 u:\trabalho2ia\include\datanode.h
+	<iostream>
+	<ostream>
+
+1319468640 source:u:\trabalho2ia\src\geneticalgorithm.cpp
+	"../include/GeneticAlgorithm.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<climits>
+
+1319332950 u:\trabalho2ia\include\geneticalgorithm.h
+	"Population.h"
+
+1319458508 source:u:\trabalho2ia\src\mazecell.cpp
+	"../include/MazeCell.h"
+
+1319241640 source:u:\trabalho2ia\src\population.cpp
+	"../include/Population.h"
+
+1319731622 source:u:\trabalho2ia\src\search.cpp
+	"../include/Search.h"
+	<iostream>
+	<cassert>
+
+1319729832 u:\trabalho2ia\include\search.h
+	<vector>
+	<queue>
+	<stack>
+	<iostream>
+	"Enviroment.h"
+	"DataNode.h"
+
+1319750296 source:u:\trabalho2ia\src\maze.cpp
+	"../include/Maze.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1319750056 source:u:\trabalho2ia\main.cpp
+	<iostream>
+	<queue>
+	"include/GeneticAlgorithm.h"
+	"include/Maze.h"
+	"include/FileHandler.h"
+	"include/Search.h"
+	"include/DataNode.h"
+
+1319748812 source:u:\trabalho2ia\src\datanode.cpp
+	"../include/DataNode.h"
+
+1320546853 source:/home/wakim/Desktop/trabalho2ia/src/DataNode.cpp
+	"../include/DataNode.h"
+
+1320546920 /home/wakim/Desktop/trabalho2ia/include/DataNode.h
+	<iostream>
+	<ostream>
+
+1319385812 source:/home/wakim/Desktop/trabalho2ia/src/FileHandler.cpp
+	"../include/FileHandler.h"
+
+1319328206 /home/wakim/Desktop/trabalho2ia/include/FileHandler.h
+	<fstream>
+	"Maze.h"
+
+1320595772 /home/wakim/Desktop/trabalho2ia/include/Maze.h
+	<ostream>
+	<vector>
+	"MazeCell.h"
+	"Population.h"
+	"Enviroment.h"
+	"DataNode.h"
+
+1319750676 /home/wakim/Desktop/trabalho2ia/include/MazeCell.h
+	<ostream>
+
+1319296916 /home/wakim/Desktop/trabalho2ia/include/Population.h
+
+1320539916 /home/wakim/Desktop/trabalho2ia/include/Enviroment.h
+	"DataNode.h"
+
+1319458508 source:/home/wakim/Desktop/trabalho2ia/src/MazeCell.cpp
+	"../include/MazeCell.h"
+
+1319241640 source:/home/wakim/Desktop/trabalho2ia/src/Population.cpp
+	"../include/Population.h"
+
+1320591039 source:/home/wakim/Desktop/trabalho2ia/src/Search.cpp
+	"../include/Search.h"
+	<iostream>
+	<cassert>
+
+1320540176 /home/wakim/Desktop/trabalho2ia/include/Search.h
+	<vector>
+	<queue>
+	<stack>
+	<iostream>
+	"Enviroment.h"
+	"DataNode.h"
+
+1320596327 source:/home/wakim/Desktop/trabalho2ia/main.cpp
+	<iostream>
+	<queue>
+	"include/GeneticAlgorithm.h"
+	"include/Maze.h"
+	"include/FileHandler.h"
+	"include/Search.h"
+	"include/DataNode.h"
+	"include/Agent.h"
+
+1320539962 /home/wakim/Desktop/trabalho2ia/include/GeneticAlgorithm.h
+	"Population.h"
+
+1319750752 source:/home/wakim/Desktop/trabalho2ia/src/GeneticAlgorithm.cpp
+	"../include/GeneticAlgorithm.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<climits>
+
+1320597144 source:/home/wakim/Desktop/trabalho2ia/src/Maze.cpp
+	"../include/Maze.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1320539655 /home/wakim/Desktop/trabalho2ia/include/Agent.h
+	"Search.h"
+	"Enviroment.h"
+	"DataNode.h"
+
+1320596553 source:/home/wakim/Desktop/trabalho2ia/src/Agent.cpp
+	"../include/Agent.h"
+

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="include/Agent.h" open="0" top="0" tabpos="0">
+		<Cursor position="210" topLine="0" />
+	</File>
+	<File name="include/DataNode.h" open="0" top="0" tabpos="1">
+		<Cursor position="2424" topLine="41" />
+	</File>
+	<File name="include/Enviroment.h" open="0" top="0" tabpos="0">
+		<Cursor position="1172" topLine="9" />
+	</File>
+	<File name="include/GeneticAlgorithm.h" open="0" top="0" tabpos="0">
+		<Cursor position="1016" topLine="8" />
+	</File>
+	<File name="include/Maze.h" open="1" top="0" tabpos="4">
+		<Cursor position="2481" topLine="51" />
+	</File>
+	<File name="include/MazeCell.h" open="0" top="0" tabpos="0">
+		<Cursor position="516" topLine="9" />
+	</File>
+	<File name="include/Search.h" open="0" top="0" tabpos="0">
+		<Cursor position="761" topLine="20" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="2083" topLine="54" />
+	</File>
+	<File name="src/Agent.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="455" topLine="0" />
+	</File>
+	<File name="src/DataNode.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="413" topLine="31" />
+	</File>
+	<File name="src/GeneticAlgorithm.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="1095" topLine="0" />
+	</File>
+	<File name="src/Maze.cpp" open="1" top="1" tabpos="3">
+		<Cursor position="1429" topLine="56" />
+	</File>
+	<File name="src/Search.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="287" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

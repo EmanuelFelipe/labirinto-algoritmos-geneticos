@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="trabalho2ia" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/trabalho2ia" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/trabalho2ia" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/Agent.h" />
+		<Unit filename="include/DataNode.h" />
+		<Unit filename="include/Enviroment.h" />
+		<Unit filename="include/FileHandler.h" />
+		<Unit filename="include/GeneticAlgorithm.h" />
+		<Unit filename="include/Maze.h" />
+		<Unit filename="include/MazeCell.h" />
+		<Unit filename="include/Population.h" />
+		<Unit filename="include/Search.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Agent.cpp" />
+		<Unit filename="src/DataNode.cpp" />
+		<Unit filename="src/FileHandler.cpp" />
+		<Unit filename="src/GeneticAlgorithm.cpp" />
+		<Unit filename="src/Maze.cpp" />
+		<Unit filename="src/MazeCell.cpp" />
+		<Unit filename="src/Population.cpp" />
+		<Unit filename="src/Search.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
